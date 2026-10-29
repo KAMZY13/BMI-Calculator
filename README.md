@@ -1,4 +1,4 @@
-# 🧮 BMI Calculator — C++ Edition
+# 🧮 BMI Calculator: C++ Edition
 
 A little C++ project with room to grow.
 
